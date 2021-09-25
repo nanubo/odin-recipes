@@ -1,0 +1,1 @@
+The website will consist of a main index page which will have links to a few recipes. This project is intended to show my skills as I advance through the Odin Project.
