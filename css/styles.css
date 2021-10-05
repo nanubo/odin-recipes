@@ -1,4 +1,8 @@
-.header {
+a {
+    text-decoration: none;
+}
+
+.index-header {
     background-color: rgb(120, 200, 236);
     color: rgb(3, 3, 73);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -8,7 +12,7 @@
     text-align: center;
 }
 
-.index-list {
+.index-content {
     background-color: aliceblue;
     color: rgb(3, 3, 73);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -16,4 +20,8 @@
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: left;
+}
+
+ul {
+    list-style-type: square;
 }
