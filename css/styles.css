@@ -1,0 +1,19 @@
+.header {
+    background-color: rgb(120, 200, 236);
+    color: rgb(3, 3, 73);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.index-list {
+    background-color: aliceblue;
+    color: rgb(3, 3, 73);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
