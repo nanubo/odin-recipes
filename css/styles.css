@@ -11,14 +11,23 @@ a {
     padding-bottom: 20px;
 }
 
-.index-content {
+.index-box {
     background-color: aliceblue;
     color: rgb(3, 3, 73);
+    display: flex;
+    flex-direction: row;
+    flex-grow: 5;
+    flex-wrap: wrap;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: left;
+}
+
+.box-item {
+    width: 170px;
+    margin: 0 5px;
 }
 
 .index-header, .index-footer {
