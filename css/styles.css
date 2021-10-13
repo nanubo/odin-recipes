@@ -1,5 +1,6 @@
 a {
     text-decoration: none;
+    color: rgb(3, 3, 73);
 }
 
 .index-header {
@@ -22,12 +23,13 @@ a {
     font-size: 24px;
     padding-top: 10px;
     padding-bottom: 10px;
-    text-align: left;
+    text-align: center;
 }
 
 .box-item {
+    margin: 5px;
+    padding: 5px;
     width: 170px;
-    margin: 0 5px;
 }
 
 .index-header, .index-footer {
