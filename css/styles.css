@@ -3,10 +3,19 @@ a {
     color: rgb(3, 3, 73);
 }
 
-.index-header {
+header {
+    font-size: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header, .index-header {
     background-color: rgb(120, 200, 236);
     color: rgb(3, 3, 73);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.index-header {
     font-size: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -32,11 +41,20 @@ a {
     width: 170px;
 }
 
-.index-header, .index-footer {
+header, .index-header, .index-footer {
     text-align: center;
 }
 
-img {
+.center-img {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 50%;
+  }
+
+.img-icon {
     width: 150px;
     height: auto;
 }
